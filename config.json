@@ -1,7 +1,7 @@
 {
     "mqtt": {
         "host": "10.0.110.154",
-        "port": 1883,
+        "port": 1234,
         "topic": "sensor/70ff2d82-972e-11e6-8bde-4485001bc64b/data/test"
     },
     
